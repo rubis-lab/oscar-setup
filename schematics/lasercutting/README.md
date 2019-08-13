@@ -23,6 +23,6 @@ All files are made to work with 425mm x 425mm acrylic plates. Note that 5mm thic
   - 50.8mm (2.0 in) / 127μ * standard
   - 56.3mm (2.5 in) / 178μ
   - 101.6mm (4.0 in) / 330μ
-- Resolutions
+- Resolutions:
   - 1000dpi, 500dpi, 333dpi, 250dpi, 200dpi, 83 dpi  (7-step control)
 
