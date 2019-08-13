@@ -2,10 +2,10 @@
 
 ## Laser Cutting Files
 
-- OSCAR_bottom_plate_1LIDAR.dwg	- bottom hardware mounting plate for 1 LIDAR
-- OSCAR_bottom_plate_2LIDAR.dwg	- bottom hardware mounting plate for 2 LIDARs
-- OSCAR_top_plate.dwg			- top hardware mounting plate
-- OSCAR_LIDAR_mount.dwg	- LIDAR mounting plate*
+- OSCAR_bottom_plate_1LIDAR.dwg - bottom hardware mounting plate for 1 LIDAR
+- OSCAR_bottom_plate_2LIDAR.dwg - bottom hardware mounting plate for 2 LIDARs
+- OSCAR_top_plate.dwg   - top hardware mounting plate
+- OSCAR_LIDAR_mount.dwg - LIDAR mounting plate*
 
 All files are made to work with 425mm x 425mm acrylic plates. Note that 5mm thickness is recommended. 
 
